@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/home/emad/.config/awesome'
+let g:netrw_dirhist_2='/home/emad/.config/awesome/themes/mine'
+let g:netrw_dirhist_1='/home/emad/.config/awesome/themes'
+let g:netrw_dirhist_0='/home/emad/.config/awesome'
+let g:netrw_dirhist_9='/home/emad/Projects/Fans/graph'
+let g:netrw_dirhist_8='/home/emad/Projects/Fans/fakeLikes'
+let g:netrw_dirhist_7='/home/emad/Projects/testTs/app'
+let g:netrw_dirhist_6='/home/emad/Projects/Fans/graph'
+let g:netrw_dirhist_5='/home/emad/.config/awesome'
+let g:netrw_dirhist_4='/home/emad/Projects/alpha/alpha_graph'
